@@ -16,4 +16,5 @@ dependencies = [
     "loguru>=0.7.3",
     "python-dotenv>=1.1.1",
     "sentence-transformers>=5.1.0",
+    "streamlit>=1.49.1",
 ]
